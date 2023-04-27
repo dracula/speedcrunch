@@ -12,7 +12,9 @@ All instructions can be found at [draculatheme.com/speedcrunch](https://draculat
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-[Betazedd](https://github.com/betazedd)
+| [![Betazedd](https://github.com/betazedd.png?size=100)](https://github.com/betazedd) |
+| ------------------------------------------------------------------------------------ |
+| [Betazedd](https://github.com/betazedd)                                              |
 
 ## Community
 
